@@ -11,7 +11,7 @@
 - 🌱 Always learning something new, especially in Node :green_heart:
 - 👯 it'll be a pleasure to work together :dancers:
 - 🖖 Trekker 😍
-- 🆘 Maybe you can help in:
+- 🆘 Maybe i can help in:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/nlmatt07/)](https://github.com/nlmatt07/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/nlmatt07/)](https://github.com/nlmatt07/)
