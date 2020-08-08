@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰! </h2>
 
-<img align='right' src='https://media.giphy.com/media/PnpkimJ5mrZRe/giphy.gif' width='400"'>
+<img align='right' src='https://media.giphy.com/media/PnpkimJ5mrZRe/giphy.gif' width='300"'>
 
 
 - 🌱 Always learning something new...
