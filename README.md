@@ -1,7 +1,7 @@
 <h1>Hello There, Fellow<h1/>
 
 <a href="https://github.com/nlmatt07"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlmatt07&langs_count=8&hide=javascript,html,css,objective-c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlmatt07&langs_count=8&hide=javascript,html,css,objective-c,ruby" />
 </a>
 <a href="https://github.com/nlmatt07"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nlmatt07&show_icons=true&theme=default" />
