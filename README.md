@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlmatt07&langs_count=8&hide=javascript,html,css,objective-c" />
 </a>
 <a href="https://github.com/nlmatt07"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nlmatt07&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nlmatt07&show_icons=true&theme=default" />
 </a>
 
 <h3>Find me here: <h3/>
