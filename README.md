@@ -1,4 +1,4 @@
-## Hello, you can call me Matt 👋🏼
+## Hello, can you call me Matt 👋🏼
 
 I'm a Software Engieeer, I spend a lot of my time: Developing (Ruby, .NET and NodeJS), playing Starcraft or reading, and i realy love do it!
 
@@ -18,7 +18,9 @@ Now I am studying the javascript ecosystem, and I am really enjoying it. but I d
 </p> 
 
 ### 🎶 Fun fact...
-I'm a trekker, i realy love star trek, and it's Philosophy.
+- I'm a trekker, i realy love star trek, and it's Philosophy.
+- I am Brazilian, and consequently I speak Portuguese, but I can communicate in English (Mainly), Spanish, Italian, and maybe a little bit of Russian.
+- I currently work as an intern for the government of the state where I live.
 
 ### 📫 Connect with me:
 
