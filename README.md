@@ -19,7 +19,7 @@ Now I am studying the javascript ecosystem, and I am really enjoying it. but I d
 
 ### 🎶 Fun fact...
 - I'm a trekker, i realy love star trek, and it's Philosophy.
-- I am Brazilian, and consequently I speak Portuguese, but I can communicate in English (Mainly), Spanish, Italian, and maybe a little bit of Russian.
+- I am Brazilian, and consequently I speak Portuguese, but I can communicate in English (Mainly), Spanish, and maybe a little bit of Russian.
 - I currently work as an intern for the government of the state where I live.
 
 ### 📫 Connect with me:
