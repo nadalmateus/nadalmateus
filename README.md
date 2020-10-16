@@ -17,11 +17,6 @@ Now I am studying the javascript ecosystem, and I am really enjoying it. but I d
  <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=nlmatt07&show_icons=true&" /></a>
 </p> 
 
-### 🎶 Fun fact...
-- I'm a trekker, i realy love star trek, and it's Philosophy.
-- I am Brazilian, and consequently I speak Portuguese, but I can communicate in English (Mainly), Spanish, and maybe a little bit of Russian.
-- I currently work as an intern for the government of the state where I live.
-
 ### 📫 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nlmatt07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlmatt07/)](https://www.linkedin.com/in/nlmatt07/) 
