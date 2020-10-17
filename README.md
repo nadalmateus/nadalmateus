@@ -15,6 +15,6 @@ Now I am studying the javascript ecosystem, and I am really enjoying it. but I d
 [![Hotmail Badge](https://img.shields.io/badge/nlmatt07@Hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:nlmatt07@hotmail.com)](mailto:nlmatt07@hotmail.com)
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nlmatt07&show_icons=true&" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlmatt07&hide=html,javascript,css?layout=compact" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlmatt07&hide=html,javascript,css?layout=compact" />
 
 
