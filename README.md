@@ -1,12 +1,7 @@
-## Hello, can you call me Matt 👋🏼
+## You can call me Matt 👋🏼
 
-I'm a Software Engieeer, I spend a lot of my time: Developing (Ruby, .NET and NodeJS), playing Starcraft or reading, and i realy love do it!
+Nodejs, .NET, Typescript, and stuff like that!
 
-### 🛥 I'm a Explorer!
-What exactly do I mean by explorer? I like to discover and test new things, whether here, on the internet, or in the physical world. I also help people better understand the open source world, and software engineering!
-
-### 🦾 I'm in love with:
-Now I am studying the javascript ecosystem, and I am really enjoying it. but I don't intend to leave .NET and ruby on rails anytime soo! 😂
 
 ### 📫 Connect with me:
 
