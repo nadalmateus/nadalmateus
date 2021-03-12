@@ -2,9 +2,8 @@
 
 ### 📫 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-nlmatt07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlmatt07/)](https://www.linkedin.com/in/nlmatt07/) 
-[![Medium Badge](https://img.shields.io/badge/-@nlmatt07-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nlmatt07/)](https://medium.com/nlmatt07)
-[![Hotmail Badge](https://img.shields.io/badge/nlmatt07@Hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:nlmatt07@hotmail.com)](mailto:nlmatt07@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-nadalmateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadalmateus/)](https://www.linkedin.com/in/nlmatt07/) 
+[![Hotmail Badge](https://img.shields.io/badge/nlmatt07@Hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:nadalmateus@outlook.com)](mailto:nadalmateus@outlook.com)
 
 Enthusiast of the best web & mobile development technologies.
 
